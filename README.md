@@ -1,4 +1,4 @@
-# ninja_id
+# Project 1: ninja_id
 
 A new Flutter application.
 
