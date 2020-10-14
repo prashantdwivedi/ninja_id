@@ -1,8 +1,12 @@
 # Project 1: ninja_id
 
-A new Flutter application.
+I just Started to learn Flutter below youtube link help. [ninja_id ](https://github.com/prashantdwivedi/ninja_id "ninja_id ")
+If you looking for start flutter my recommendation is [YouTube](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ "YouTube")
 
-## Getting Started
+#### Preview
+<img src="https://i.imgur.com/1byp6hv.png" alt="ninja_id_flutter_basic" width="150"  />
+
+#### Getting Started: [Flutter](https://flutter.dev/ "Flutter")
 
 This project is a starting point for a Flutter application.
 
